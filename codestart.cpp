@@ -12,5 +12,6 @@ int main() {
     cout << "Size of vec: " << last.size() << endl;
     cout<< veci[4] << endl;
     cout << "Hello, World!" << endl;
+    cout << "Getting good at git" << endl;
     return 0;
 }
