@@ -13,5 +13,6 @@ int main() {
     cout<< veci[4] << endl;
     cout << "Hello, World!" << endl;
     cout << "Getting good at git" << endl;
+    cout << "Making changes to the code" << endl;
     return 0;
 }
